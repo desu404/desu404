@@ -1,9 +1,9 @@
-### desu404, a caffeine addicted ice witch
+### desu404, a caffeine addict ice witch
 
 Freezing in the snow of Siberia and learning algebra.
 + 🌱 ~~[CV](https://github.com/desu404/resume) and [blog](https://github.com/desu404/stay_tuned) on both Russian and English.~~
   + Still not ready yet, stay tuned.
-+ The [codeforces](https://codeforces.com/eloczka) profile.
++ The [codeforces](https://codeforces.com/profile/eloczka) profile.
 + Interested in functional programming, group theory and algorithms.
   + Currently mastering Haskell and Elixir.
   + Interest in algorithms and data structures is mainly related to CP.
