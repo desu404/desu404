@@ -1,4 +1,4 @@
-### desu404, a coffeine addicted ice witch
+### desu404, a caffeine addicted ice witch
 
 Freezing in the snow of Siberia and learning algebra.
 + 🌱 ~~[CV](https://github.com/desu404/resume) and [blog](https://github.com/desu404/stay_tuned) on both Russian and English.~~
